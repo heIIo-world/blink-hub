@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv/
+pip-log.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Application data (user-specific)
+downloads/
+thumbnails/
+logs/
+*.db
+*.db-journal
+credentials.json
+settings.json
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
